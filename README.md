@@ -1,4 +1,4 @@
 taskManager
 ===========
-Example you see
+Example you see.
 http://mavrin.github.com/taskManager/
